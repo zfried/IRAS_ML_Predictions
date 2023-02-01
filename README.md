@@ -16,6 +16,8 @@ Next you will need to activate an RDKit environment to allow for the RDKit modul
 
 Following this, you need to open the main_predictions.ipynb Jupyter notebook and follow the instructions within. In summary, run all import statements and function definitions. Then in the final cell, replace the "smile" input of the getPrediction() function with the SMILES string of the molecule you are interested in and define whether the molecule is a rare isotopologue or not by adjusting the isIso input. Setting isIso = True will denote that the molecule is a rare isotopologue and vice versa. The predicted column density of the molecule will be returned and printed!  
 
+Also contained in this GithHub repository are PDF files that report the predicted column densities of many molecules and rare isotopologues that may be excellent candidates for radioastronomical detection toward IRAS 16293-2422B.
+
 If you have questions, feel free to reach out! (zfried@mit.edu)
 
 
