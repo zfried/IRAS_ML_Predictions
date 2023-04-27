@@ -11,7 +11,7 @@ In order to predict the column density of a molecule of interest toward IRAS 162
 
 These should all be saved to the same folder on your device.
 
-The trained mol2vec model file is too large to upload to GitHub. It can be found at (*enter link*). 
+The trained mol2vec model file is too large to upload to GitHub. It can be found at https://doi.org/10.5281/zenodo.7869214 
 
 Next you will need to activate an RDKit environment to allow for the RDKit module to be used within a Jupyter notebook. A tutorial for this can be found at the following link (https://depth-first.com/articles/2020/08/17/getting-started-rdkit-and-jupyter/).
 
@@ -19,7 +19,7 @@ Following this, you need to open the main_predictions.ipynb Jupyter notebook and
 
 Also contained in this GithHub repository are PDF files that report the predicted column densities of many molecules and rare isotopologues that may be excellent candidates for radioastronomical detection toward IRAS 16293-2422B.
 
-Finally, the remaining folders in the repository contain the files and Jupyter notebooks used to generate the results and Figures displayed in the paper. Several of these notebooks depend on files that are too large to upload to GitHub, including the full dataset of over 3,000,000 SMILES strings and feature vectors. These large files can also be found at (*enter link*).
+Finally, the remaining folders in the repository contain the files and Jupyter notebooks used to generate the results and Figures displayed in the paper. Several of these notebooks depend on files that are too large to upload to GitHub, including the full dataset of over 3,000,000 SMILES strings and feature vectors. These large files can also be found at https://doi.org/10.5281/zenodo.7869214
 
 If you have questions, feel free to reach out! (zfried@mit.edu)
 
